@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "ZBHVYzluRw8KpSd1nKS/lCIvQ/nJ0WfBoJ5wrQZzBtw=",
+  "Source": "webtest",
+  "BasePath": "_content/webtest",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
